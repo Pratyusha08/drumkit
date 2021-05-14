@@ -1,0 +1,66 @@
+  
+body {
+  text-align: center;
+  background-color: #ffd56b;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #ff7b54;
+  font-family: cursive;
+  border: 5px solid #404B69 ;
+}
+
+.w {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/crash.jpg");
+}
+
+.a {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/kick.jpg");
+}
+
+.s {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/snare.jpg");
+}
+
+.d {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/tom1.jpg");
+}
+
+.j {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/tom2.jpg");
+}
+
+.k {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/tom3.jpg");
+}
+
+.l {
+  background-image: url("C:/Users/Prathusha/Documents/StigeProjects/drumkit/tom4.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 4rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 700;
+  color: #e1701a;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
